@@ -1,5 +1,5 @@
 ---
-name: 오류 지원
+name: Error
 about: 개선에 도움이 되는 보고서 작성
 title: "[오류]"
 labels: bug, help wanted

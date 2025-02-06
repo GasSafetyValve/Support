@@ -1,5 +1,5 @@
 ---
-name: 추가 문의
+name: Extra
 about: 고장 신고가 아닌 기타 문의
 title: "[추가 문의]"
 labels: help wanted
